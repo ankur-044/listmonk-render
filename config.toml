@@ -1,0 +1,10 @@
+[app]
+address = "0.0.0.0:10000"
+
+[db]
+host = "dpg-d8se0o68bjmc738a6fc0-a"
+port = 5432
+user = "listmonk_f3ka_user"
+password = "YOUR_DB_PASSWORD"
+database = "listmonk_f3ka"
+ssl_mode = "disable"
